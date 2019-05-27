@@ -1,0 +1,336 @@
+*{	
+	margin: 0px;
+	padding: 0px;
+}
+/**/
+#container{
+	min-height: 960px;
+	width: 1900px;
+	
+	margin-right: auto;
+	margin-left: auto;
+}
+/**/
+#wrapper{
+	min-height: 960px;
+	width: 910px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: radial-gradient(rgb(111, 89, 100), rgb(27, 11, 15)); 
+}
+/*---------------------------------------------------------------------------------------------------*/
+.header{
+	min-height: 60px;
+	width: 100%;
+	background-color: rgb(245,245,245);
+}
+	h1.jayne{
+		width: 300px;
+		display: inline-block;
+		margin-left:20px;
+		margin-top:10px;
+	}
+	h2.master{
+		width: 400px;
+		display: inline-block;
+		margin-left: 170px;
+		font-size: 20px
+	}
+/*---------------------------------------------------------------------------------------------------*/
+.about{
+	min-height: 300px;
+	width: 100%;
+
+}
+	#photo{
+		height: 250px;
+		width: 380px;
+		display: inline-block;
+		margin: 22px;
+	}
+	.jane{
+		height: 240px;
+		width: 370px;
+		border-style: solid;
+  		border-width: 5px;
+  		border-color: grey;
+	}
+	.desc{
+		height: 250px;
+		width: 460px;
+		display: inline-block;
+		margin: 22px 0px;
+		vertical-align: top;
+		background-image: linear-gradient(to right, white ,rgb(218, 203, 217));	
+	}
+		h2.hd{
+			font-size: 25px;
+			color: white;
+			
+		}
+/*---------------------------------------------------------------------------------------------------*/
+.body{
+	min-height: 535px;
+	width: 100%;
+}
+	.info{
+		min-height: 515px;
+		width: 270px;
+		display: inline-block;
+		margin-left: 22px;
+		vertical-align: top;
+		background-image: linear-gradient(to right, white ,rgb(218, 203, 217));
+
+	}
+		.hd{
+			height: 40px;
+			width: auto;
+			padding-top: 5px;
+			vertical-align: top;
+			background-image: linear-gradient(rgb(178, 178, 182),rgb(135, 133, 147),rgb(178, 178, 182));
+
+		}
+			p.sansserif {
+  				font-family: Arial;
+  				font-size: 16px;
+  				vertical-align: top;
+  				text-align: left;
+
+
+				}
+			p.sansseri {
+  				font-family: Arial;
+  				font-size: 13px;
+  				vertical-align: top;
+  				text-align: left;
+  				height: 120px;
+
+				}
+		.lamode{
+			width: 270px;
+			height: auto;
+
+		}
+		.family{
+			width: 270px;
+			height: auto;
+		}
+		.five{
+			width: 270px;
+			height: auto;
+		}
+		.hd2{
+			height: 40px;
+			width: auto;
+			vertical-align: top;
+			background-image: linear-gradient(rgb(178, 178, 182),rgb(135, 133, 147),rgb(178, 178, 182));
+			color: white;
+
+		}
+			
+			.ajax{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.php{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.codeigniter{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.jQuery{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.ajax{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.mysql{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.HTML{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.CSS{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.bootstrap{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.JavaScript{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.mongodb{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.expressjs{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.angular{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.nodejs{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.socket{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.python{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.django{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.d3{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.sqlite{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.materialize{
+				height:37px;
+				width: auto;
+				margin-top: 10px;
+				margin-left: 13px;
+				display: inline-block;	
+			}
+			.jay{
+				height:15px;
+				width: auto;
+				display: inline-block;	
+			}
+			.jay1{
+				height:15px;
+				width: auto;
+				display: inline-block;	
+			}
+			.jay2{
+				height:15px;
+				width: auto;
+				display: inline-block;	
+			}
+			.jay3{
+				height:15px;
+				width: auto;
+				display: inline-block;	
+			}
+		.button{
+			border-radius: 5px;
+			border-style: solid;
+  			border-width: 1px;
+  			border-color: black;
+			background: #407D61;
+			margin-top: 5px;
+			margin-left: 80px;
+			height: 25px;
+			width: 120px;
+			 box-shadow: 4px 4px 4px grey;
+			 color: white;
+		}
+
+		
+
+/*---------------------------------------------------------------------------------------------------*/
+.footer{
+	min-height: 65px;
+	width: 100%;
+	background-color: rgb(245,245,245);
+}
+	p{
+		text-align: center;
+		margin: 0px 0px 10px 0px;
+	}
+	ul{
+		display: inline-block;
+		margin: 0px 0px 0px 300px;
+		text-align: center;
+	}
+	ul li{
+		display: inline-block;
+		padding-left: 20px;
+
+	}
+/*---------------------------------------------------------------------------------------------------*/
+/*ONLY USE
+MARGIN [top, right, bottom,left]
+PADDING
+DISPLAY [none, inline, block, inline-block]
+VERTICAL-ALIGN [baseline|length|sub|super|top|text-top|middle|bottom|text-bottom|initial|inherit]
+WIDTH
+HEIGHT
+Text-align: center;
+POSTION|STATIC, RELATIVE, ABSOLUTE AND FIXED*/
